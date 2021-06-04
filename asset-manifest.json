@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RA-reactapp/static/css/main.b7cd74ef.chunk.css",
+    "main.js": "/RA-reactapp/static/js/main.298c2571.chunk.js",
+    "main.js.map": "/RA-reactapp/static/js/main.298c2571.chunk.js.map",
+    "runtime-main.js": "/RA-reactapp/static/js/runtime-main.fe9a93d3.js",
+    "runtime-main.js.map": "/RA-reactapp/static/js/runtime-main.fe9a93d3.js.map",
+    "static/js/2.8911d523.chunk.js": "/RA-reactapp/static/js/2.8911d523.chunk.js",
+    "static/js/2.8911d523.chunk.js.map": "/RA-reactapp/static/js/2.8911d523.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/RA-reactapp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/RA-reactapp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/RA-reactapp/index.html",
+    "static/css/main.b7cd74ef.chunk.css.map": "/RA-reactapp/static/css/main.b7cd74ef.chunk.css.map",
+    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/RA-reactapp/static/js/2.8911d523.chunk.js.LICENSE.txt",
+    "static/media/illustration-mockups.264994a5.svg": "/RA-reactapp/static/media/illustration-mockups.264994a5.svg",
+    "static/media/logo.2b3c07e4.svg": "/RA-reactapp/static/media/logo.2b3c07e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe9a93d3.js",
+    "static/js/2.8911d523.chunk.js",
+    "static/css/main.b7cd74ef.chunk.css",
+    "static/js/main.298c2571.chunk.js"
+  ]
+}
